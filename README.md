@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shinjh0849
-- 👀 I’m interested in Software Engineering.
+- 👋 Hi, I’m Jiho Shin.
+- 👀 I’m interested in Software Engineering & NLP.
 - 🌱 I’m currently learning Source Code Generation.
-- 📫 How to reach me (jihoshin@yorku.ca)
+- 📫 How to reach to my organizational email: jihoshin@yorku.ca
 
 <!---
 shinjh0849/shinjh0849 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
