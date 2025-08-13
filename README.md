@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jiho Shin.
-- 👀 I’m interested in Software Engineering & NLP.
-- 🌱 I’m currently learning Source Code Generation.
-- 📫 I'm a PhD student in EECS at York Univerity, Toronto.
+- 👀 I’m interested in Software Engineering, specifically AI4SE and SE4AI = AI4AI!
+- 🌱 I’m currently learning Agent-based Software Engineering.
+- 📫 I'm a PhD Candidate in EECS at York University, Toronto.
 - organizational email: jihoshin@yorku.ca
 
 <!---
