@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jiho Shin.
 - 👀 I’m interested in Software Engineering, specifically AI4SE + SE4AI = AI4AI!
 - 🌱 I’m currently learning Agent-based Software Engineering.
-- 📫 I'm a PhD Candidate in EECS at York University, Toronto.
+- 📫 I'm a Postdoctoral Research Fellow at Queen's University
 - organizational email: jihoshin@yorku.ca
 
 <!---
