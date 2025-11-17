@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering, specifically AI4SE + SE4AI = AI4AI!
 - 🌱 I’m currently learning Agent-based Software Engineering.
 - 📫 I'm a Postdoctoral Research Fellow at Queen's University
-- organizational email: jihoshin@yorku.ca
+- organizational email: jiho.shin@queensu.ca
 
 <!---
 shinjh0849/shinjh0849 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
